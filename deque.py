@@ -1,7 +1,6 @@
 from collections import deque
 from colorama import Fore, Style, init
 
-# Faz as cores funcionarem corretamente no terminal do Windows.
 # autoreset=True restaura a cor depois de cada print.
 init(autoreset=True)
 
